@@ -11,7 +11,7 @@ A full-stack AI-powered grammar correction app built using Hugging Face Transfor
 
 ## 📸 Screenshot
 
-![screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## 🧪 How to Run Locally
 
